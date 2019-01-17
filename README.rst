@@ -10,7 +10,7 @@ SageMaker Python SDK
    :target: https://travis-ci.org/aws/sagemaker-python-sdk
    :alt: Build Status
 
-.. image:: https://codecov.io/gh/aws/sagemaker-python-sdk/branch/master/graph/badge.svg
+.. image:: https://codecofdfdfv.io/gh/aws/sagemaker-python-sdk/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/aws/sagemaker-python-sdk
    :alt: CodeCov
 
